@@ -71,6 +71,7 @@ PostDetailPage.getLayout = function getlayout(page) {
       url: `${CONFIG.link}/${page.props.post.slug}`,
     }
   }
+
   return (
     <Layout metaConfig={getMetaConfig()} fullWidth={page.props.post?.fullWidth}>
       {page}
