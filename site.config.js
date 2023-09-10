@@ -27,7 +27,7 @@ const CONFIG = {
 
   // blog setting (required)
   blog: {
-    title: "SeungHa's Blog",
+    title: "seungha's blog",
     description: "welcome to morethan-log!",
     theme: "light", // ['light', 'dark', 'auto']
   },
