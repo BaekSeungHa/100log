@@ -16,7 +16,7 @@ const CONFIG = {
       href: "https://github.com/team-b1nd/b1nd-Design-System/",
     },
     {
-      name: `Dgit(Dgsw Github Ranking)`,
+      name: `Dgit (Dgsw Github Ranking)`,
       href: "https://github.com/Team-B1ND/DGIT_WEB_V3",
     },
     {
