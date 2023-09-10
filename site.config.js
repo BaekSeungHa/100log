@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "baekseungha",
+    name: "BaekSeungHa",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "행복하게 살자",
+    role: "Frontend Developer",
+    bio: "건강하고 행복하게",
     email: "qortmdgk12@naver.com",
     linkedin: "",
     github: "baekseungha",
@@ -12,12 +12,12 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `MenToMen`,
-      href: "https://github.com/B1ND-7th/MenToMen-Web",
+      name: `B1ND-Design-System`,
+      href: "https://github.com/team-b1nd/b1nd-Design-System/",
     },
     {
-      name: `MenToMen-V2`,
-      href: "https://github.com/B1ND-7th/MenToMen_Web_V2",
+      name: `Dgit(Dgsw Github Ranking)`,
+      href: "https://github.com/Team-B1ND/DGIT_WEB_V3",
     },
     {
       name: "BambooForest",
@@ -27,7 +27,7 @@ const CONFIG = {
 
   // blog setting (required)
   blog: {
-    title: "seungha's blog",
+    title: "SeungHa's Blog",
     description: "welcome to morethan-log!",
     theme: "light", // ['light', 'dark', 'auto']
   },
